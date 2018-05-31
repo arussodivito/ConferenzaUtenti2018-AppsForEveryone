@@ -1,5 +1,6 @@
 # ConferenzaUtenti2018-AppsForEveryone
-Workshop Tecnico Apps for Everyone - App pronte all'uso per ogni esigenza
+Workshop Tecnico Apps for Everyone - App pronte all'uso per ogni esigenza.
+
 Se non sei riuscita a seguire i 2 workshop della Conferenza Utenti Esri Italia 2018 fino al termine
 “App pronte All'uso per ogni Esigenza - Apps for Everyone” o chi fosse interessato alle Slide, al seguente Link, trovi:
 -	Slide
