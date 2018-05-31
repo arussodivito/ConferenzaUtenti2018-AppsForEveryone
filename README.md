@@ -8,7 +8,7 @@ Se non sei riuscita a seguire i 2 workshop della Conferenza Utenti Esri Italia 2
 
 Materiale Workshop!:  https://we.tl/zl4r1gV8ZI
 
-Ai seguenti 2 Link, i Quiz (preferibile scaricare App Survey123 Windows con Account ArcGIS Online),  che puoi ripetere se non hai fatto in tempo a compilarli:
+Ai seguenti 2 Link, i Quiz (preferibile scaricare App Survey123 Windows con Account ArcGIS Online):
 
 -	Quiz Introduttivo: https://survey123.arcgis.com/share/91448b9105224462832739516f5c5de6?open=menu
 
