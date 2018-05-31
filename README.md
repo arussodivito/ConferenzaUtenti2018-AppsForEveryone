@@ -12,7 +12,7 @@ Ai seguenti 2 Link, i Quiz (preferibile scaricare App Survey123 Windows con Acco
 
 -	Quiz Introduttivo: https://survey123.arcgis.com/share/91448b9105224462832739516f5c5de6?open=menu
 
--	Quiz sulle App: https://survey123.arcgis.com/share/c2db336acade494ba0603ed947fe02f4?open=native
+-	Quiz sulle App: https://survey123.arcgis.com/share/c2db336acade494ba0603ed947fe02f4?open=menu
 
 -	Gli argomenti affrontati nel Workshop sono i seguenti:
 	- ArcGIS Platfom e Apps (Survey123 Intro)
